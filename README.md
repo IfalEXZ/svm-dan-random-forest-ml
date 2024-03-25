@@ -5,10 +5,8 @@
 Training and Testing Data using SVM and Random Forest <br><br>
 
 
-
-Untuk menggunakannya sendiri silahkan download datasetnya kemudian atur kodenya sesuai direktorinya
-
-Dataset yang digunakan adalah dataset masakan padang
+Dataset yang digunakan adalah dataset masakan padang<br>
+Dataset bisa didownload melalui file rar yang ada di repository
 
 ---
 ### Dibuat oleh
